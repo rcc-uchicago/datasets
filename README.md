@@ -2,9 +2,9 @@ RCC supports data-intensive research at the University of Chicago by providing c
 
 RCC is able to host open-access as well as proprietary data sets on a case-by-case basis. Currently, RCC hosts the following data sets:
 
-* [`PDB`](pdb.md) - Over 90,000 protein structures from the Protein Databank
-* [`NGRAMS](ngrams.md) - A complete clone of the Google Ngram data set
-* [`CESM`](cesm.md) - The Community Earth Science Model input data set and models
-* [`NLTK`](nltk.md) - Python’s Natural Language ToolKit data corpus
+* [`PDB`](pdb.md) - Over 90,000 protein structures from the [Protein Databank](http://en.wikipedia.org/wiki/Protein_Data_Bank)
+* [`NGRAMS`](ngrams.md) - A complete clone of the Google Ngram data set
+* [`CESM`](cesm.md) - The [Community Earth Science Model](http://www2.cesm.ucar.edu/) input data set and models
+* [`NLTK`](nltk.md) - Python’s [Natural Language ToolKit](http://www.nltk.org) [data corpus](http://www.nltk.org/data.html)
 
 To request hosting of an additional data set, please [contact RCC](http://rcc.uchicago.edu/contact/).
