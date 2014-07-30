@@ -4,7 +4,9 @@ Python's Natural Language Toolkit provides a free, open-source platform for pyth
 NLTK may be useful to research areas relating to computational linguistics, human-computer interaction, and artificial intelligence.
 
 NLTK corpora: http://www.nltk.org/nltk_data/
+
 Install NLTK: http://www.nltk.org/install.html
+
 Install NLTK data: http://www.nltk.org/data.html
 
 Source: http://www.nltk.org/index.html
