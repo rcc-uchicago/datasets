@@ -13,8 +13,12 @@ Individual files can be downloaded into graphics packages with the following web
     PDB format: http://www.pdb.org/pdb/files/<PDB_ID>.pdb.gz or http://pdbe.org/download/<PDB_ID>
     PDBML: http://www.pdb.org/pdb/files/<PDB_ID>.xml.gz or http://pdbe.org/pdbml/<PDB_ID>
 
+Files can also be downloaded at the following link:
+http://www.rcsb.org/pdb/download/download.do
+
 To download the entire wwPDB FTP archive, follow the instructions with the link below.
 http://www.wwpdb.org/downloads.html
 
+The PDB dataset is located on Midway at "project/databases/pdb/".
 
 Source: http://en.wikipedia.org/wiki/Protein_Data_Bank
