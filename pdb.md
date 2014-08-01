@@ -1,4 +1,5 @@
 # PDB
+Summary
 The Protein Data Bank (PDB), managed by the Worldwide Protein Data Bank, holds data on the 3D structure of large biomolecules (i.e. proteins and nucleic acids) primarily obtained from X-ray crystallography, NMR spectroscopy, or electron microscopy. 
 
 PDB is useful to research areas related to structural biology and biochemistry.
@@ -11,5 +12,9 @@ Individual files can be downloaded into graphics packages with the following web
 
     PDB format: http://www.pdb.org/pdb/files/<PDB_ID>.pdb.gz or http://pdbe.org/download/<PDB_ID>
     PDBML: http://www.pdb.org/pdb/files/<PDB_ID>.xml.gz or http://pdbe.org/pdbml/<PDB_ID>
+
+To download the entire wwPDB FTP archive, follow the instructions with the link below.
+http://www.wwpdb.org/downloads.html
+
 
 Source: http://en.wikipedia.org/wiki/Protein_Data_Bank
