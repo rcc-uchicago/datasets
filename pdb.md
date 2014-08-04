@@ -6,7 +6,11 @@ PDB is useful to research areas related to structural biology and biochemistry.
 
 Each structure in PDB is given a unique PDB ID, a 4-character identifier. However, each biomolecule may have more than one PDB ID, since each environment or conformation may have a different PDB ID, so PDB IDs do not uniquely identify biomolecules.
 
-Files are in the PDB file format, macromolecular Crystallographic Information file (mmCIF), and an XML version of mmCIF (PDBML).
+Files are in one of the following formats:
+
+    PDB file format
+    mmCIF - macromolecular Crystallographic Information file 
+    PDBML - an XML version of mmCIF 
 
 Individual files can be downloaded into graphics packages with the following web addresses:
 
