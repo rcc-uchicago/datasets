@@ -10,7 +10,7 @@ The dataset is available as compressed SDF formatted textual data files. Each co
 
 #### External documentation
 
-There is documentation located on PubChem in general located [here](https://pubchem.ncbi.nlm.nih.gov/help.html). You are able search by Compound ID for information about a particular compound in this [online database](https://www.ncbi.nlm.nih.gov/pccompound) provided by the National Center for Biotechnology Information.
+There is documentation located on PubChem located [here](https://pubchem.ncbi.nlm.nih.gov/help.html). You are able to search by Compound ID for information about a particular compound in this [online database](https://www.ncbi.nlm.nih.gov/pccompound) provided by the National Center for Biotechnology Information.
 
 #### Example use cases
 
