@@ -2,6 +2,8 @@
 
 #### Summary
 
+The PubChem Compound database from the PubChem Molecular Library contains validated chemical depiction information provided to describe substances in PubChem Substance, another database offered by the PubChem Molecular Library. RCC offers use of the complete compound dataset.
+
 Files are located in the following directory on Midway:
 
 `/project/databases/pubchem-molecular-libraries`
