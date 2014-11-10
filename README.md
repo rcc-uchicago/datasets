@@ -6,6 +6,6 @@ RCC is able to host open-access as well as proprietary data sets on a case-by-ca
 * [`NGRAMS`](ngrams.md) - A complete clone of the Google Ngram data set
 * [`CESM`](cesm.md) - The [Community Earth Science Model](http://www2.cesm.ucar.edu/) input data set and models
 * [`NLTK`](nltk.md) - Python’s [Natural Language ToolKit](http://www.nltk.org) [data corpus](http://www.nltk.org/data.html)
-* [`PubChem Compound`](http://www.ncbi.nlm.nih.gov/pccompound) - The [Molecular Libraries Program's](http://mli.nih.gov/mli/) public database of chemical compounds provided to describe substances in the [PubChem Substance database](http://www.ncbi.nlm.nih.gov/pcsubstance)
+* [`PubChem Compound`](https://github.com/rcc-uchicago/datasets/blob/master/pubchem.md) - The Molecular Libraries Program's [PubChem Compound](http://www.ncbi.nlm.nih.gov/pccompound) is a public database of chemical compounds provided to describe substances in the [PubChem Substance database](http://www.ncbi.nlm.nih.gov/pcsubstance)
 
 To request hosting of an additional data set, please [contact RCC](http://rcc.uchicago.edu/contact/).
